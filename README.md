@@ -7,4 +7,4 @@ Python 3 с установленним модулем Colorama
 # Запуск
 Кликніть start.exe и ви запустите Потужномітр!
 # Скачать
-Скоро розміщу
+https://mega.nz/file/LeAzxIwJ#f8dnvzPvcMkRDH9Y0riqS1rekuYozWZ6JhLhKAhqppc
